@@ -40,7 +40,7 @@ AMIGO is a Flask-based AI therapy chatbot that offers two primary modes of opera
 - Google Dialogflow account (optional, for webhook integration)
 
 - ## 🚀 Live Demo
-Want to talk to Amigo ? : [**Live Demo**](https://churn-metrics.replit.app)
+Want to talk to Amigo ? : [**Live Demo**](https://amigo-therapy.replit.app)
 
 ## 🚀 Quick Start
 
